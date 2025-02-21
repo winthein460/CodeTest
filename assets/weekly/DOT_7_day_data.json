@@ -1,0 +1,13 @@
+{
+    "coin": "Polkadot",
+    "short_name": "DOT",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 8.50},
+        {"date": "2025-02-16", "exchange_rate": 8.40},
+        {"date": "2025-02-15", "exchange_rate": 8.30},
+        {"date": "2025-02-14", "exchange_rate": 8.20},
+        {"date": "2025-02-13", "exchange_rate": 8.10},
+        {"date": "2025-02-12", "exchange_rate": 8.00},
+        {"date": "2025-02-11", "exchange_rate": 7.90}
+    ]
+}

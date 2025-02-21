@@ -1,0 +1,13 @@
+{
+    "coin": "Solana",
+    "short_name": "SOL",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 120},
+        {"date": "2025-02-16", "exchange_rate": 118},
+        {"date": "2025-02-15", "exchange_rate": 115},
+        {"date": "2025-02-14", "exchange_rate": 112},
+        {"date": "2025-02-13", "exchange_rate": 110},
+        {"date": "2025-02-12", "exchange_rate": 108},
+        {"date": "2025-02-11", "exchange_rate": 105}
+    ]
+}

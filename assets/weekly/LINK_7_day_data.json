@@ -1,0 +1,13 @@
+{
+    "coin": "Chainlink",
+    "short_name": "LINK",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 18},
+        {"date": "2025-02-16", "exchange_rate": 17.8},
+        {"date": "2025-02-15", "exchange_rate": 17.5},
+        {"date": "2025-02-14", "exchange_rate": 17.2},
+        {"date": "2025-02-13", "exchange_rate": 17.0},
+        {"date": "2025-02-12", "exchange_rate": 16.8},
+        {"date": "2025-02-11", "exchange_rate": 16.5}
+    ]
+}

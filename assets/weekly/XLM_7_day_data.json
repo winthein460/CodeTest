@@ -1,0 +1,13 @@
+{
+    "coin": "Stellar",
+    "short_name": "XLM",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 0.15},
+        {"date": "2025-02-16", "exchange_rate": 0.148},
+        {"date": "2025-02-15", "exchange_rate": 0.145},
+        {"date": "2025-02-14", "exchange_rate": 0.142},
+        {"date": "2025-02-13", "exchange_rate": 0.140},
+        {"date": "2025-02-12", "exchange_rate": 0.138},
+        {"date": "2025-02-11", "exchange_rate": 0.135}
+    ]
+}

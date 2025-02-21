@@ -1,0 +1,13 @@
+{
+    "coin": "TRON",
+    "short_name": "TRX",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 0.09},
+        {"date": "2025-02-16", "exchange_rate": 0.088},
+        {"date": "2025-02-15", "exchange_rate": 0.085},
+        {"date": "2025-02-14", "exchange_rate": 0.082},
+        {"date": "2025-02-13", "exchange_rate": 0.080},
+        {"date": "2025-02-12", "exchange_rate": 0.078},
+        {"date": "2025-02-11", "exchange_rate": 0.075}
+    ]
+}

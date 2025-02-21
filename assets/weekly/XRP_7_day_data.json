@@ -1,0 +1,13 @@
+{
+    "coin": "Ripple",
+    "short_name": "XRP",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 0.62},
+        {"date": "2025-02-16", "exchange_rate": 0.61},
+        {"date": "2025-02-15", "exchange_rate": 0.60},
+        {"date": "2025-02-14", "exchange_rate": 0.59},
+        {"date": "2025-02-13", "exchange_rate": 0.58},
+        {"date": "2025-02-12", "exchange_rate": 0.57},
+        {"date": "2025-02-11", "exchange_rate": 0.56}
+    ]
+}

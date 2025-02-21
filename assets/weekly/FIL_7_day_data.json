@@ -1,0 +1,13 @@
+{
+    "coin": "Filecoin",
+    "short_name": "FIL",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 8.00},
+        {"date": "2025-02-16", "exchange_rate": 7.90},
+        {"date": "2025-02-15", "exchange_rate": 7.80},
+        {"date": "2025-02-14", "exchange_rate": 7.70},
+        {"date": "2025-02-13", "exchange_rate": 7.60},
+        {"date": "2025-02-12", "exchange_rate": 7.50},
+        {"date": "2025-02-11", "exchange_rate": 7.40}
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "coin": "Ethereum Classic",
+    "short_name": "ETC",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 25},
+        {"date": "2025-02-16", "exchange_rate": 24.8},
+        {"date": "2025-02-15", "exchange_rate": 24.5},
+        {"date": "2025-02-14", "exchange_rate": 24.2},
+        {"date": "2025-02-13", "exchange_rate": 24.0},
+        {"date": "2025-02-12", "exchange_rate": 23.8},
+        {"date": "2025-02-11", "exchange_rate": 23.5}
+    ]
+}

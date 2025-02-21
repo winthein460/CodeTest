@@ -1,0 +1,13 @@
+{
+    "coin": "Ethereum",
+    "short_name": "ETH",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 3200},
+        {"date": "2025-02-16", "exchange_rate": 3180},
+        {"date": "2025-02-15", "exchange_rate": 3150},
+        {"date": "2025-02-14", "exchange_rate": 3120},
+        {"date": "2025-02-13", "exchange_rate": 3100},
+        {"date": "2025-02-12", "exchange_rate": 3080},
+        {"date": "2025-02-11", "exchange_rate": 3050}
+    ]
+}

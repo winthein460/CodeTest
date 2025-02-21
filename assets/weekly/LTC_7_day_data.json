@@ -1,0 +1,13 @@
+{
+    "coin": "Litecoin",
+    "short_name": "LTC",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 85},
+        {"date": "2025-02-16", "exchange_rate": 84},
+        {"date": "2025-02-15", "exchange_rate": 83},
+        {"date": "2025-02-14", "exchange_rate": 82},
+        {"date": "2025-02-13", "exchange_rate": 81},
+        {"date": "2025-02-12", "exchange_rate": 80},
+        {"date": "2025-02-11", "exchange_rate": 79}
+    ]
+}

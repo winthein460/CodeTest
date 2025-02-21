@@ -1,0 +1,13 @@
+{
+    "coin": "Bitcoin Cash",
+    "short_name": "BCH",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 300},
+        {"date": "2025-02-16", "exchange_rate": 298},
+        {"date": "2025-02-15", "exchange_rate": 295},
+        {"date": "2025-02-14", "exchange_rate": 292},
+        {"date": "2025-02-13", "exchange_rate": 290},
+        {"date": "2025-02-12", "exchange_rate": 288},
+        {"date": "2025-02-11", "exchange_rate": 285}
+    ]
+}

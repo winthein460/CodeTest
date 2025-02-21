@@ -1,0 +1,13 @@
+{
+    "coin": "Bitcoin",
+    "short_name": "BTC",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 45000},
+        {"date": "2025-02-16", "exchange_rate": 44800},
+        {"date": "2025-02-15", "exchange_rate": 44500},
+        {"date": "2025-02-14", "exchange_rate": 44200},
+        {"date": "2025-02-13", "exchange_rate": 44000},
+        {"date": "2025-02-12", "exchange_rate": 43800},
+        {"date": "2025-02-11", "exchange_rate": 43500}
+    ]
+}

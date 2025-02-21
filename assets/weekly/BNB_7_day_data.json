@@ -1,0 +1,13 @@
+{
+    "coin": "Binance Coin",
+    "short_name": "BNB",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 400},
+        {"date": "2025-02-16", "exchange_rate": 398},
+        {"date": "2025-02-15", "exchange_rate": 395},
+        {"date": "2025-02-14", "exchange_rate": 392},
+        {"date": "2025-02-13", "exchange_rate": 390},
+        {"date": "2025-02-12", "exchange_rate": 388},
+        {"date": "2025-02-11", "exchange_rate": 385}
+    ]
+}

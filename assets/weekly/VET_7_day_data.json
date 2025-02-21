@@ -1,0 +1,13 @@
+{
+    "coin": "VeChain",
+    "short_name": "VET",
+    "daily_data": [
+        {"date": "2025-02-17", "exchange_rate": 0.04},
+        {"date": "2025-02-16", "exchange_rate": 0.039},
+        {"date": "2025-02-15", "exchange_rate": 0.038},
+        {"date": "2025-02-14", "exchange_rate": 0.037},
+        {"date": "2025-02-13", "exchange_rate": 0.036},
+        {"date": "2025-02-12", "exchange_rate": 0.035},
+        {"date": "2025-02-11", "exchange_rate": 0.034}
+    ]
+}

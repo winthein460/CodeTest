@@ -1,0 +1,140 @@
+{
+    "balance": 1999192909,
+    "currency":"USDC",
+    "market":[
+        {
+          "name": "Bitcoin",
+          "short_name": "BTC",
+          "current_price_usd": 96202.0,
+          "logo_url": "assets/coin_logos/btc.png",
+          "percent_change_24h": -0.94
+        },
+        {
+          "name": "Ethereum",
+          "short_name": "ETH",
+          "current_price_usd": 2716.69,
+          "logo_url": "assets/coin_logos/eth.png",
+          "percent_change_24h": 0.89
+        },
+        {
+          "name": "XRP",
+          "short_name": "XRP",
+          "current_price_usd": 2.68,
+          "logo_url": "assets/coin_logos/xrp.png",
+          "percent_change_24h": -2.55
+        },
+        {
+          "name": "Tether",
+          "short_name": "USDT",
+          "current_price_usd": 0.999975,
+          "logo_url": "assets/coin_logos/usdt.png",
+          "percent_change_24h": -0.003
+        },
+        {
+          "name": "BNB",
+          "short_name": "BNB",
+          "current_price_usd": 670.19,
+          "logo_url": "assets/coin_logos/bnb.png",
+          "percent_change_24h": 2.37
+        },
+        {
+          "name": "Solana",
+          "short_name": "SOL",
+          "current_price_usd": 184.56,
+          "logo_url": "assets/coin_logos/sol.png",
+          "percent_change_24h": -4.16
+        },
+        {
+          "name": "Cardano",
+          "short_name": "ADA",
+          "current_price_usd": 0.795345,
+          "logo_url": "assets/coin_logos/ada.png",
+          "percent_change_24h": 2.80
+        },
+        {
+          "name": "Polkadot",
+          "short_name": "DOT",
+          "current_price_usd": 4.92,
+          "logo_url": "assets/coin_logos/dot.png",
+          "percent_change_24h": 0.00
+        },
+        {
+          "name": "Dogecoin",
+          "short_name": "DOGE",
+          "current_price_usd": 0.262957,
+          "logo_url": "assets/coin_logos/doge.png",
+          "percent_change_24h": -2.04
+        },
+        {
+          "name": "Litecoin",
+          "short_name": "LTC",
+          "current_price_usd": 125.65,
+          "logo_url": "assets/coin_logos/ltc.png",
+          "percent_change_24h": -4.34
+        },
+        {
+          "name": "Polygon",
+          "short_name": "MATIC",
+          "current_price_usd": 0.32274,
+          "logo_url": "assets/coin_logos/matic.png",
+          "percent_change_24h": 0.65
+        },
+        {
+          "name": "TRON",
+          "short_name": "TRX",
+          "current_price_usd": 0.245716,
+          "logo_url": "assets/coin_logos/trx.png",
+          "percent_change_24h": 3.19
+        },
+        {
+          "name": "Bitcoin Cash",
+          "short_name": "BCH",
+          "current_price_usd": 328.38,
+          "logo_url": "assets/coin_logos/bch.png",
+          "percent_change_24h": -0.98
+        },
+        {
+          "name": "Chainlink",
+          "short_name": "LINK",
+          "current_price_usd": 19.14,
+          "logo_url": "assets/coin_logos/link.png",
+          "percent_change_24h": 1.32
+        },
+        {
+          "name": "Stellar",
+          "short_name": "XLM",
+          "current_price_usd": 0.339471,
+          "logo_url": "assets/coin_logos/xlm.png",
+          "percent_change_24h": -1.26
+        },
+        {
+          "name": "VeChain",
+          "short_name": "VET",
+          "current_price_usd": 0.03347596,
+          "logo_url": "assets/coin_logos/vet.png",
+          "percent_change_24h": 0.16
+        },
+        {
+          "name": "Filecoin",
+          "short_name": "FIL",
+          "current_price_usd": 3.4,
+          "logo_url": "assets/coin_logos/fil.png",
+          "percent_change_24h": 0.59
+        },
+        {
+          "name": "Ethereum Classic",
+          "short_name": "ETC",
+          "current_price_usd": 20.77,
+          "logo_url": "assets/coin_logos/etc.png",
+          "percent_change_24h": 1.22
+        },
+        {
+          "name": "Aave",
+          "short_name": "AAVE",
+          "current_price_usd": 265.84,
+          "logo_url": "assets/coin_logos/aave.png",
+          "percent_change_24h": 6.09
+        }
+      ]
+      
+}
